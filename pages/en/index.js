@@ -183,8 +183,8 @@ class Index extends React.Component {
 
       return (
         <div className="productShowcaseSection paddingBottom">
-          <h2>Who is Using This?</h2>
-          <p>This project is used by all these people</p>
+          <h2>Support Universal Access?</h2>
+          <p>Incorporating accessibility on your website is the right thing to do today.</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
