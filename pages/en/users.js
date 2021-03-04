@@ -35,8 +35,8 @@ class Users extends React.Component {
             </div>
             <div className="logos">{showcase}</div>
             <p>Just as web accessibility and SEO are linked, so too are web accessibility and usability.If you’re ready to launch a full accessibility initiative or have questions, you can reach out to our team of experts for a free 30-minute consultation about your next steps.</p>
-            <a href={editUrl} className="button">
-              Add your company
+            <a href={"https://uahub.org.za"} className="button">
+              Visit UA Hub
             </a>
           </div>
         </Container>
