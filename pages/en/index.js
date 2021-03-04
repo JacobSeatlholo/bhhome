@@ -108,9 +108,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'To make your landing page more attractive, use illustrations! Check out ' +
-              '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
-              'The illustrations you see on this page are from unDraw.',
+              'CRM is not just a software.Its far more than that. Whether you are B2C, B2B, B2B2C, customer relations are the cornerstone of any business.',
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: 'left',
             title: 'Save time and Work more efficiently',
@@ -124,7 +122,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'This is another description of how this section is useful',
+              'Track Clients customer company data, contacts, client contact data, projects and milestones.',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
             title: 'Communications Tracking',
