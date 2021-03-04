@@ -30,12 +30,13 @@ class Users extends React.Component {
         <Container padding={['bottom', 'top']}>
           <div className="showcaseSection">
             <div className="prose">
-              <h1>Who is Using This?</h1>
-              <p>This project is used by many folks</p>
+              <h1>What is Universal Accessibiity?</h1>
+              <p>People with disabilities should be able to perceive, understand, navigate, and interact with, and contribute to your website.</p>
             </div>
             <div className="logos">{showcase}</div>
-            <p>Are you using this project?</p>
-            <a href={editUrl} className="button">
+            <p>Just as web accessibility and SEO are linked, so too are web accessibility and usability.If you’re ready to launch a full accessibility initiative or have questions, you can reach out to our team of experts for a free 30-minute consultation about your next steps.</p>
+            <a href=https://uahub.org.za/#contact-page
+      className="button">
               Add your company
             </a>
           </div>
