@@ -98,8 +98,8 @@ class Index extends React.Component {
         className="productShowcaseSection paddingBottom"
         style={{ textAlign: 'center' }}
       >
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>We are here to solve real problems for clients</h2>
+        <MarkdownBlock>Let us help you Processes & Optimise decisions</MarkdownBlock>
       </div>
     );
 
