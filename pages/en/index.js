@@ -141,7 +141,7 @@ class Index extends React.Component {
               'Each new Docusaurus project has **randomly-generated** theme colors.',
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            title: 'Utilize the shared organization schedule',
           },
         ]}
       </Block>
