@@ -113,7 +113,7 @@ class Index extends React.Component {
               'The illustrations you see on this page are from unDraw.',
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: 'left',
-            title: 'Wonderful SVG Illustrations',
+            title: 'Save time and Work more efficiently',
           },
         ]}
       </Block>
