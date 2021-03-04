@@ -26,7 +26,7 @@ const siteConfig = {
   // as the package.json file for now
   customDocsPath: path.basename(__dirname) + '/docs',
 
-  title: 'Want to stand out online?', // Title for your website.
+  title: 'Hustle Portal', // Title for your website.
   tagline: 'Let us help you grow your business.',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
