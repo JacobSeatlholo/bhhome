@@ -127,7 +127,7 @@ class Index extends React.Component {
               'This is another description of how this project is useful',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
-            title: 'Description',
+            title: 'Communications Tracking',
           },
         ]}
       </Block>
