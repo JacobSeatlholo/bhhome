@@ -139,7 +139,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Our platform allows you to securely manage all CRM related resources in one place',
+              'Our platform allows you to securely manage all CRM related resources in one place.',
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: 'right',
             title: 'Utilize the shared organization schedule',
