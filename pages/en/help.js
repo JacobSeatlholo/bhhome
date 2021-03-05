@@ -21,16 +21,11 @@ function Help(props) {
 
   const supportLinks = [
     {
-      
-
- ](${docUrl(
-      
-      content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's
-      title: 'Company Overview',
+      content: `Learn more using the [documentation on this site.](${docUrl(
+        'doc1.html'
+      )})`,
+      title: 'Browse Docs',
     },
-](${docUrl(
-         'doc1.html'
-       )})`,
     {
       content: 'Ask questions about the documentation and project',
       title: 'Join the community',
@@ -48,7 +43,7 @@ function Help(props) {
           <header className="postHeader">
             <h1>Business Hustle Ltd</h1>
           </header>
-          <p>Business-Hustle trademark of Simple eternity holdings (Pty) Ltd. A company registered & incorporated under the laws of the Republic of South Africa.
+          <p>We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
 </p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
