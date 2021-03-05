@@ -136,7 +136,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
+              'Our platform allows you to manage all CRM related resources on one secure place',
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: 'right',
             title: 'Utilize the shared organization schedule',
