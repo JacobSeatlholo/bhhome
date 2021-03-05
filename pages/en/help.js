@@ -21,8 +21,8 @@ function Help(props) {
 
   const supportLinks = [
     {
-      content: `We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.(${docUrl(
-        'doc1.html'
+      content: `We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.(${(
+        ''
       )})`,
       title: 'Company Overview',
     },
