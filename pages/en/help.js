@@ -23,7 +23,6 @@ function Help(props) {
     {
       content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
 
-](${docUrl(
         'doc1.html'
       )})`,
       title: 'Company Overview',
@@ -45,7 +44,7 @@ function Help(props) {
           <header className="postHeader">
             <h1>Business Hustle Ltd</h1>
           </header>
-          <p>Business-Hustle trademark of Simple eternity holdings (Pty) Ltd. A company registered & incorporated under the laws of the Republic of South Africa. We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
+          <p>Business-Hustle trademark of Simple eternity holdings (Pty) Ltd. A company registered & incorporated under the laws of the Republic of South Africa.
 </p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
