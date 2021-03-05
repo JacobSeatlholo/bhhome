@@ -31,7 +31,7 @@ ${
       title: 'What we offer',
     },
     {
-      content: "On-going Support When You Need it Most. Email us at team@business-hustle.co",
+      content: "On-going support when you need it most. Email us at team@business-hustle.co",
       title: 'Contact Us',
     },
   ];
