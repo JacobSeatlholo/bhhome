@@ -8,7 +8,17 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 
 ## Design & UI 
 
-Lorem ipsum dolor(https://www.figma.com) sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+https://www.figma.com) - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web.
+
+https://imagebin.ca - Pastebin for images.
+
+https://www.pexels.com/ - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords.
+
+https://www.photopea.com/ - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
+
+https://pixelite.com/ - Create and edit engaging and unique graphics and images online.
+
+
 
 ## Email
 
