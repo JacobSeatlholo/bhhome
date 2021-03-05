@@ -43,8 +43,7 @@ function Help(props) {
           <header className="postHeader">
             <h1>Business Hustle Ltd</h1>
           </header>
-          <p>We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
-</p>
+          <p> Business Hustle Ltd is a trademark of Simple eternity holdings (PTY) LTD a company registered and incorporated in the Republic of South Africa.</p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
       </Container>
