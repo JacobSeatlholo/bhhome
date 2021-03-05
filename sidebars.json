@@ -1,8 +1,8 @@
 {
   "docs": {
     "Hustle Portal Resources": ["doc1"],
-    "Content creators": ["doc2"],
-    "Second Category": ["doc3"]
+    "Content creator": ["doc2"],
+    "Entrepreneur": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
