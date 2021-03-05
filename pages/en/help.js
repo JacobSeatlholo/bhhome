@@ -41,9 +41,10 @@ function Help(props) {
       <Container className="mainContainer documentContainer postContainer">
         <div className="post">
           <header className="postHeader">
-            <h1>Need help?</h1>
+            <h1>Business Hustle Ltd</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
+          <p>We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
+</p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
       </Container>
