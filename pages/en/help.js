@@ -24,6 +24,9 @@ function Help(props) {
       content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's
       title: 'Company Overview',
     },
+](${docUrl(
+         'doc1.html'
+       )})`,
     {
       content: 'Ask questions about the documentation and project',
       title: 'Join the community',
