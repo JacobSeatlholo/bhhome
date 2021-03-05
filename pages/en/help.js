@@ -21,10 +21,12 @@ function Help(props) {
 
   const supportLinks = [
     {
-      content: `Learn more using the [documentation on this site.](${docUrl(
+      content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
+
+](${docUrl(
         'doc1.html'
       )})`,
-      title: 'Browse Docs',
+      title: 'Company Overview',
     },
     {
       content: 'Ask questions about the documentation and project',
