@@ -125,7 +125,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Track Clients customer company data, contacts, client contact data, projects and milestones.',
+              'Track calls, emails, contact history, projects and milestones. Have full visibility and control of your schedule at a glance ',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
             title: 'Communications Tracking',
