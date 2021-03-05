@@ -111,10 +111,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'CRM is not just a software.Its far more than that. Whether you are B2C, B2B, B2B2C, customer relations are the cornerstone of any business.',
+              'CRM is not just a software. Its far more than that. Whether you are B2C, B2B, B2B2C, customer relations are the cornerstone of any business.',
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: 'left',
-            title: 'Save time and Work more efficiently',
+            title: 'Save time and work more efficiently',
           },
         ]}
       </Block>
