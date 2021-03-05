@@ -26,7 +26,7 @@ const siteConfig = {
   // as the package.json file for now
   customDocsPath: path.basename(__dirname) + '/docs',
 
-  title: 'Hustle Portal', // Title for your website.
+  title: 'Business Hustle', // Title for your website.
   tagline: 'Let us help you grow your business.',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -78,7 +78,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © 2021 Business Hustle Ltd`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
