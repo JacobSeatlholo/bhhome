@@ -27,8 +27,8 @@ ${
       title: 'Company Overview',
     },
     {
-      content: 'Ask questions about the documentation and project',
-      title: 'Join the community',
+      content: 'We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SMEs.',
+      title: 'What we offer',
     },
     {
       content: "Find out what's new with this project",
