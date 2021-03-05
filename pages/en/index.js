@@ -40,7 +40,8 @@ class HomeSplash extends React.Component {
         {siteConfig.title}
         <small>{siteConfig.tagline}</small>
       </h2>
-    );
+    ); image: `${baseUrl}img/undraw_code_review.svg`,
+            imageAlign: 'left'
 
     const PromoSection = props => (
       <div className="section promoSection">
