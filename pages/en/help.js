@@ -21,7 +21,7 @@ function Help(props) {
 
   const supportLinks = [
     {
-      content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's.
+      content: `We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's
       title: 'Company Overview',
     },
     {
