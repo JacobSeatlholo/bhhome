@@ -21,10 +21,10 @@ function Help(props) {
 
   const supportLinks = [
     {
-      content: `Learn more using the [documentation on this site.](${docUrl(
+      content: `We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.(${docUrl(
         'doc1.html'
       )})`,
-      title: 'Browse Docs',
+      title: 'Company Overview',
     },
     {
       content: 'Ask questions about the documentation and project',
