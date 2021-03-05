@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: Resources 
-sidebar_label: Example Page
+sidebar_label: Resource Page
 ---
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for creatives, authors, designers and entrepreneurs to take advantage of as a resource page to assist in building content/systems for your business. 
