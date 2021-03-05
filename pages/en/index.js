@@ -64,7 +64,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="https://hustleportal-git-bhw1-businesshustle.vercel.app/tutorial">Try Out our Customer Relationship Management tool</Button>
+            <Button href="https://hustleportal-git-bhw1-businesshustle.vercel.app/tutorial">Try Out our CRM tool</Button>
             <Button href={docUrl('doc1.html')}>Resources</Button>
             <Button href={docUrl('doc2.html')}>Education and Training</Button>
           </PromoSection>
