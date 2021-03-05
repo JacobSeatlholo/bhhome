@@ -61,7 +61,10 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
-        <div className="inner"><Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+        <div className="inner">
+        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+
+
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
             <Button href="https://hustleportal-git-bhw1-businesshustle.vercel.app/tutorial">Try Out our CRM tool</Button>
