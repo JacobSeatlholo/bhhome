@@ -31,8 +31,8 @@ ${
       title: 'What we offer',
     },
     {
-      content: "Find out what's new with this project",
-      title: 'Stay up to date',
+      content: "On-going Support When You Need it Most. Email us at team@business-hustle.co",
+      title: 'Contact Us',
     },
   ];
 
