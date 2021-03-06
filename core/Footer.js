@@ -36,19 +36,19 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
+            <h5>Legal</h5>
             <a href={this.docUrl('doc1.html', this.props.language)}>
-              Getting Started (or other categories)
+              Terms and conditions
             </a>
             <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+              Privacy Policy
             </a>
             <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+              EULA
             </a>
           </div>
           <div>
-            <h5>Community</h5>
+            <h5>Reach out</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
               User Showcase
             </a>
@@ -59,7 +59,7 @@ class Footer extends React.Component {
             >
               Stack Overflow
             </a>
-            <a href="https://discordapp.com/">Project Chat</a>
+            <a href="https://discordapp.com/">Facebook</a>
             <a
               href="https://twitter.com/"
               target="_blank"
