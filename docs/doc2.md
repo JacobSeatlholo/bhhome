@@ -5,18 +5,14 @@ title: Payment and Billing Integration
 
 This is a link to [another document.](doc3.md)  
 
-Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. [fraudlabspro.](https://www.fraudlabspro.com/)
+[Fraudlabspro.](https://www.fraudlabspro.com/) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 
-This is a link to an [external page.](http://www.example.com)
+[Revenuecat.](https://www.revenuecat.com/) - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
 
-This is a link to an [external page.](http://www.example.com)
+[Currencystack.](https://currencystack.io/) - Production-ready real-time exchange rates for 154 currencies.
 
-This is a link to an [external page.](http://www.example.com)
+[Exchangerate_api.](https://www.exchangerate-api.com/) - An easy to use currency conversion JSON API. Free tier with no request limit.
 
-This is a link to an [external page.](http://www.example.com)
+[Mailpop.](https://mailpop.in/) - Get the most of your Stripe notifications with contextualized information.
 
-[external page.](http://www.example.com)This is a link to an
-
-[external page.](http://www.example.com)This is a link to an 
-
-[external page.](http://www.example.com)This is a link to an 
+[Getbricksapp.](https://free.getbricks.app/) - A note-taking app (PWA) with a powerful built-in multiline calculator.
