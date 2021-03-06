@@ -37,7 +37,7 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Legal</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
+            <a href={this.docUrl('https://bhhome.vercel.app/help', this.props.language)}>
               Terms and conditions
             </a>
             <a href={this.docUrl('doc2.html', this.props.language)}>
