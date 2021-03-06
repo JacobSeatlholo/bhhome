@@ -3,7 +3,7 @@ id: doc2
 title: Payment and Billing Integration
 ---
 
-This is a link to [another document.](doc3.md)  
+See challenges in a new light with accurate [Project Management.](doc3.md) and Custom decision support with our free resources 
 
 [Fraudlabspro.](https://www.fraudlabspro.com/) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 
