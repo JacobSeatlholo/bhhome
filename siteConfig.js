@@ -46,7 +46,7 @@ const siteConfig = {
     { doc: 'doc1', label: 'Resources' },
     { doc: 'doc4', label: 'Case Studies' },
     { page: 'help', label: 'About Us' },
-    { blog: true, label: 'News' },
+    { blog: true, label: 'Updates' },
   ],
 
   // If you have users set above, you add it here:
