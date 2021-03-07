@@ -102,7 +102,7 @@ class Index extends React.Component {
         style={{ textAlign: 'center' }}
       >
         <h2>We are here to solve real problems for clients</h2>
-        <MarkdownBlock>Let us help you Processes & Optimise decisions</MarkdownBlock>
+        <MarkdownBlock>Let us help you Process & Optimise decisions</MarkdownBlock>
       </div>
     );
 
