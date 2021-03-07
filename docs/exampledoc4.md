@@ -1,6 +1,34 @@
 ---
 id: doc4
-title: Other Document
+title: Freelancing Ethics for the modern world
 ---
 
-this is another document
+In the UK, its called the "Gig Economy" and its growing exponentialy, albeit off a small base.  In Germany its not as acceptable because of the strong work ethic.  In the USA, its starting to become a lifestyle choice.  South Africa hasn't caught on yet, because it competes in nature with what we here call "the informal sector".  But what is it?
+
+In days gone by, it was desire rather than skills that secured a job.  Be presentable, be on time and you could have the same job for your entire working career.  Skills were learnt on the job, formal qualifications seldom needed. A brief look at the employment stats for post-war Britian reveal a world which is very one dimensional :  most men worked in manual labouring jobs where the unemployment rate was below 3%. Most women were considered "economically inactive", but those who did work, were either secretaries or typists. Pay was mostly standardised and most households did very nicely on one income.
+
+Prior to this era, say in the early nineteenth centuary, about 60% of all employees in Europe and North America were employed in the production of food. As new tools and production methods came to the fore, this number dropped steadily so that today no more than about 4% of a modern, industrial society is engaged in agriculture. Industrial manufactoring techniques have gone both high tech & global, so that small numbers of trained employees in low-wage areas are fulfilling the needs of different communities all over the world.
+
+So whats the 'big picture'?  From the 1960's a new type of job description entered our lexicon.  Its the "service economy" and its getting bigger and bigger. Over time, this type of work has evolved, but briefly, it can be described as "doing things rather than making products". So while a car manufactor is producing many more cars then 50 years ago, they are being produced faster, using robots rather than people.  Of the remaining employees on the factory floor, most are not making cars, they are controlling the robots that are making the cars.  
+
+This has produced a new type of workforce : a workforce which is rapidly dividing into the haves and the have-nots.  The service sector relies on personal skills, so the two most important criteria for getting a service-orientated job are professional qualifications and previous experience. Some service options, such as call centres, are ongoing, others are not.  It is the latter type that is growing and morphing into freelancing options. These jobs use specialist knowledge to perform a unique task : once the task is done, the job is over.  These might include website set-up, accounting and tax jobs for small businesses,  a payment gateway for a large online retailer or a travelling hair-styist. 
+
+The nature of the service economy is such that it relies both on ability to do the job and availability to do it. Employing someone fulltime to provide short-term ad-hoc work is not economically viable, so in most cases, its not done and leaves a major skills gap. Someone who has skills, does short term work, is mobile or works online and gets paid for a unique service, fills that gap and is a freelancer.  This is different from an entrepreneur, whose aim is to set up a business for profit. Although its entirely possible to set up a business with the aim of providing services, an entrepreneur isn't likely to be a freelancer, due to the profit motive. A business owner would want to achieve critical mass, by optimising expenses (ie employees) against income. A freelancer is strictly independant, has to charge higher, cannot optimise costs and possibly has more free time.
+
+There exists another type of service-provider within what is called the 'professions'. These are your doctors, lawyers and accountants and the difference is that these occupations are regulated, usually be a self-regulating body.  In order to qualify, one has to fulfil the required academic standards and be licensed, ie be a member of good standing in their respective regulatory body. While these are also service-providers, they are called professionals and not freelancers due to their professional status.  However, they have much in common with freelancers; only really differing in the single aspect of registration to their professional body.
+
+Experts in the USA predict that within a couple of decades, self-employed service providers will comprise up to 40% of the workforce.  Almost all of these freelancers will be be providing services without having to establish professional credibility and therein lies a serious social problem.  How do we validate that our car mechanic is really a mechanic or our hairdresser knows how to style hair?
+
+Modern tools of evaluating employees relies on qualifications, formal evaluations against Key Performance indicators (KPI) or previous references.  Since these do not apply to a freelancer, how do you know how a "good" one differs from a "bad" one.    Not surprisingly, there is no real way, which is why personal recommadations are useful. I work as a freelancer IT trouble shooter and I have developed a set of ethics which I work by. A condensed list would involve :
+
+* No over-charging : typically, 'padding' an account. Often done and is blatently dishonest.
+* Accepting with good grace, that when it comes to techical know-how, my clients have no idea what they are talking about; correct them where appropriate and keep quiet when not.
+* Sensitivity to client's privacy. Not an obvious one, but when one has access to a client's database, one has access to a lot of personal things. 
+* Not out-sourcing their work to someone else and taking a cut.  Unless disclosed, its wrong.  Its about personal responsibilty to undertake the job and be able to explain it to the client in first-hand terms.
+* No "scraping".  This is unique to online web work and it means stealing data from another website.  Its usually done when a start-up wants to demonstrate lots of products or satisfied users.  Its wrong, its rife and its professionally embarressing.
+* Commitment to excellence.  I am not a jack of all trades, nor do I want to be.  I do one thing and I do it well.
+* Above all, I am accountable for what I put out.  I have in past, committed real howlers and the only way past it, is to put up ones hand, accept the blame, learn a fine lesson and move on. 
+
+Without some sort of professional ethics to work from, freelancing would devolve into a bunch of cowboys, all trying to fleece everyone else.  Professionals get away from this problem by committing to a set of licensing standards.  In the Europe of old, guilds were set up to govern local trade and established a hierachy from apprentices to master-craftsman. The model of self-regulation is there : its time to go forwards, by looking at the past.
+
+[source : https://blog.e-strategic.net/2018/04/freelancing-ethics-for-modern-world.html]
