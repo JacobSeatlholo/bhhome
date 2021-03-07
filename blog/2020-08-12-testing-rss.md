@@ -1,6 +1,6 @@
 ---
 title: AR + ML(AR Cut & Paste)
-author: Eric Nakagawa
+author: Sourabh Singh
 authorURL: https://twitter.com/SourabhSKatoch/status/1293376911717085192
 authorFBID: 661277173
 ---
