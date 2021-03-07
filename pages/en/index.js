@@ -158,7 +158,7 @@ class Index extends React.Component {
             title: 'Simplified CRM with a beautiful UI/UX',
           },
           {
-            content: 'The content of my second feature',
+            content: 'You cannot control results, only the actions leading up to them.',
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
             title: 'Ensure accuracy and efficiency',
