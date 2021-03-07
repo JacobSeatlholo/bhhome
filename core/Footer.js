@@ -50,18 +50,18 @@ class Footer extends React.Component {
           <div>
             <h5>Reach out</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
-              User Showcase
+              Our Work
             </a>
             <a
-              href="https://stackoverflow.com/questions/tagged/"
+              href="https://www.instagram.com/businesshustleworldwide/"
               target="_blank"
               rel="noreferrer noopener"
             >
-              Stack Overflow
+              Instagram
             </a>
-            <a href="https://discordapp.com/">Facebook</a>
+            <a href="https://www.facebook.com/HustlebusinessWorldwide/">Facebook</a>
             <a
-              href="https://twitter.com/"
+              href="https://twitter.com/HustleBusiness/"
               target="_blank"
               rel="noreferrer noopener"
             >
