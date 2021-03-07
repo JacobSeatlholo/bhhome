@@ -152,13 +152,13 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'Fully mobile-responsive application designed for maximum productivity',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'We keep your data safe',
+            title: 'Simplified CRM with a beautiful UI/UX',
           },
           {
-            content: 'The content of my second feature',
+            content: 'You cannot control results, only the actions leading up to them.'
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
             title: 'Ensure accuracy and efficiency',
