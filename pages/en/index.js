@@ -155,7 +155,7 @@ class Index extends React.Component {
             content: 'Fully mobile-responsive application designed for maximum productivity',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'Simplified CRM with a beautiful UI/UX',
+            title: 'Simplified CRM with an accesssible UI/UX',
           },
           {
             content: 'You cannot control results, only the actions leading up to them.',
