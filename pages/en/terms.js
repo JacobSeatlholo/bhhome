@@ -16,4 +16,4 @@ function HelloWorld(props) {
   );
 }
 
-module.exports = HelloWorld; Terms and conditions
+module.exports = HelloWorld;
