@@ -37,4 +37,4 @@ All this has given rise to different types of web development work.  A graphic d
 
 So where to next?  Some see connected devices becoming a part of our lives, like fridges that can determine the levels of food and automatically re-order.  Others see advances in artificial intelligence or digital currencies.  Perhaps data security will be the next big thing.  Lets wait a few years to find out.
 
-[Source : https://blog.e-strategic.net/2019/02/the-internet-of-things.html]
+[Source : https://blog.e-strategic.net/2019/02/the-internet-of-things.html] 
