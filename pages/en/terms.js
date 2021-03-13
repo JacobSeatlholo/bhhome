@@ -9,19 +9,18 @@ function HelloWorld(props) {
   return (
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
-        <h1>Terms and conditions</h1>
+        <h1>Terms and Conditions</h1>
         <p>The following terms and conditions (collectively, these "Terms and Conditions") apply to your use of www.businesshustle.co, including any content, functionality and services offered on or via www.business-hustle.co (the "Website").
 Please read the Terms and Conditions carefully before you start using BusinessHustle.Co, because by using the Website you accept and agree to be bound and abide by these Terms and Conditions.
 These Terms and Conditions are effective as of the 1st of January 2020. We expressly reserve the right to change these Terms and Conditions from time to time without notice to you. You acknowledge and agree that it is your responsibility to review this Website and these Terms and Conditions from time to time and to familiarize yourself with any modifications. Your continued use of this Website after such modifications will constitute acknowledgement of the modified Terms and Conditions and agreement to abide and be bound by the modified Terms and Conditions. 
 
 <br></br>
-<h1>Conduct on Website</h1>
+<h2>Conduct on Website</h2>
 Your use of the Website is subject to all applicable laws and regulations, and you are solely responsible for the substance of your communications through the Website.
 By posting information in or otherwise using any communications service, chat room, message board, newsgroup, software library, or other interactive service that may be available to you on or through this Website, you agree that you will not upload, share, post, or otherwise distribute or facilitate distribution of any content — including text, communications, software, images, sounds, data, or other information — that:
 Is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, contains explicit or graphic descriptions or accounts of sexual acts (including but not limited to sexual language of a violent or threatening nature directed at another individual or group of individuals), or otherwise violates our rules or policies
-Victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability
-Infringes on any patent, trademark, trade secret, copyright, right of publicity, or other proprietary right of any party
-Constitutes unauthorized or unsolicited advertising, junk or bulk email (also known as "spamming"), chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling
+victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability
+Infringes on any patent, trademark, trade secret, copyright, right of publicity, or other proprietary right of any party constitutes unauthorized or unsolicited advertising, junk or bulk email (also known as "spamming"), chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling
 Contains software viruses or any other computer code, files, or programs that are designed or intended to disrupt, damage, or limit the functioning of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of any third party
 Impersonates any person or entity, including any of our employees or representatives
 We neither endorse nor assume any liability for the contents of any material uploaded or submitted by third party users of the Website. We generally do not pre-screen, monitor, or edit the content posted by users of communications services, chat rooms, message boards, newsgroups, software libraries, or other interactive services that may be available on or through this Website.
