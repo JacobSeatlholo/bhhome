@@ -30,7 +30,7 @@ Intellectual Property and Ownership
 Simple eternity holdings (Pty) Ltd shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Simple eternity holdings (Pty) Ltd .
 Simple eternity holdings (Pty) Ltd reserves the right to grant licences to use the Software to third parties.
 <br></br>
-  <h2>Termination</h2>
+  <h2>Termination</h2> 
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Simple eternity holdings (Pty) Ltd .
 It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 <br></br>
