@@ -48,6 +48,9 @@ class Footer extends React.Component {
             </a>
             <a href="https://bhhome.vercel.app/termsofuse"> Terms of Use </a>
           </div>
+             <a href="https://bhhome.vercel.app/EULA">
+              Company Overview
+            </a>
           <div>
             <h5>Reach out</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
