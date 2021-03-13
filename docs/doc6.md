@@ -3,13 +3,14 @@ id: doc6
 title: Digital Consultancy 
 ---
 
-We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers. Hi 
+We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers. 
 
 ## Our Digital Transformation Strategy
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/wxl6E0czWbw">
 </iframe>
+
 
 We adapt to customer demands & circumstances in real-time. We offer data driven services that increase overall digital marketing efficiency within the organisational campaigns. We continuously listen to our customers & act proactively to anticipate needs.
 
@@ -30,6 +31,7 @@ Artificial intelligence (AI) is the ability of machines to interpret data and ac
 * **Business Process Assessment (BPA) & UX Redesign services**
  --Detailed approach to Product development and Adherence to Corporate Standards
 
+
 * **Data Management**
   --Data mining, Data strategies,& Data intergration
 
@@ -41,3 +43,13 @@ Artificial intelligence (AI) is the ability of machines to interpret data and ac
 South Africa’s unemployment rate is at 27.6% of which youth accounts for 63.4% thereof (StatsSA, 2019). This problems across many countries in Africa. Business leaders around the  world must gain the right skills and expertise to grow and create a competitive and inclusive economy with shared prosperity. 
 
 >Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
+
+
+ 
+ ## Software Development
+ 
+ 
+ 
+ ## UX/UI Design
+ 
+ ## IT Support
