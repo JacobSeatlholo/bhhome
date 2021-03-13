@@ -9,13 +9,14 @@ function HelloWorld(props) {
   return (
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
-        <h1>Hello World!</h1>
-        <p>This is my first page!</p>
+        <h1>Company Overview</h1>
+        <p>We help companies use agile+critical+adaptive futuristic thinking to build solid customer-centred profitable organisations. We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups & SME's. Discover how we create meaningful impact</p>
     
     <iframe width="420" height="315"
 src="https://www.youtube.com/embed/PuMDCqvMs0E">
 </iframe>
-    
+        <button type="button" onclick="alert('Hello world!')">What we do!</button>
+ 
       </Container>
     </div>
   );
