@@ -15,8 +15,7 @@ function HelloWorld(props) {
     <iframe width="420" height="315"
 src="https://www.youtube.com/embed/PuMDCqvMs0E">
 </iframe>
-        <button type="button" onclick="alert('Hello world!')">What we do!</button>
- 
+      
       </Container>
     </div>
   );
