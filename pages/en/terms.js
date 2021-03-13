@@ -13,7 +13,9 @@ function HelloWorld(props) {
         <p>The following terms and conditions (collectively, these "Terms and Conditions") apply to your use of www.businesshustle.co, including any content, functionality and services offered on or via www.business-hustle.co (the "Website").
 Please read the Terms and Conditions carefully before you start using BusinessHustle.Co, because by using the Website you accept and agree to be bound and abide by these Terms and Conditions.
 These Terms and Conditions are effective as of the 1st of January 2020. We expressly reserve the right to change these Terms and Conditions from time to time without notice to you. You acknowledge and agree that it is your responsibility to review this Website and these Terms and Conditions from time to time and to familiarize yourself with any modifications. Your continued use of this Website after such modifications will constitute acknowledgement of the modified Terms and Conditions and agreement to abide and be bound by the modified Terms and Conditions. 
-Conduct on Website
+
+<br></br>
+<h1>Conduct on Website</h1>
 Your use of the Website is subject to all applicable laws and regulations, and you are solely responsible for the substance of your communications through the Website.
 By posting information in or otherwise using any communications service, chat room, message board, newsgroup, software library, or other interactive service that may be available to you on or through this Website, you agree that you will not upload, share, post, or otherwise distribute or facilitate distribution of any content — including text, communications, software, images, sounds, data, or other information — that:
 Is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, contains explicit or graphic descriptions or accounts of sexual acts (including but not limited to sexual language of a violent or threatening nature directed at another individual or group of individuals), or otherwise violates our rules or policies
