@@ -11,6 +11,8 @@ We bring deep insight and expertise to support leaders of corporate, markerters,
 src="https://www.youtube.com/embed/wxl6E0czWbw">
 </iframe>
 > Get in touch and contact team@business-hustle.co for a quote
+> 
+
 We adapt to customer demands & circumstances in real-time. We offer data driven services that increase overall digital marketing efficiency within the organisational campaigns. We continuously listen to our customers & act proactively to anticipate needs.
 
 ## Automation & AI
@@ -40,4 +42,4 @@ Artificial intelligence(AI) is the ability of machines to interpret data and act
 
 South Africa’s unemployment rate is at 27.6% of which youth accounts for 63.4% thereof (StatsSA, 2019). This problems across many countries in Africa. Business leaders around the  world must gain the right skills and expertise to grow and create a competitive and inclusive economy with shared prosperity. 
 
->Download [Hustle Basics](https://gumroad.com/l/opbDH)today and find out how to tap into an unlimited amount of internet resources for you and your business
+>Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
