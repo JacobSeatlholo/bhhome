@@ -48,7 +48,7 @@ South Africa’s unemployment rate is at 27.6% of which youth accounts for 63.4%
  
  ## Software Development
  
- We plan to help our clients align their digital strategy with their enterprise e strategy across all verticals in order to achieve digital success. 
+ We plan to help our clients align their digital strategy with their enterprise e-strategy across all verticals in order to achieve digital success. 
 
 >Interested in learning more?. View our [Resources](https://bhhome.vercel.app/docs/doc1) here
 
