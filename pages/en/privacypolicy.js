@@ -21,9 +21,7 @@ We also use various technologies to collect information, and this may include se
   <h2>Use of the Data</h2>
 We only use your personal information to provide you the Business Hustle services or to communicate with you about the Website or the services. We employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information.
 We do not share personal information you have provided to us without your consent, unless:
-Doing so is appropriate to carry out your own request
-We believe it's needed to enforce our legal agreements or that is legally required
-We believe it's needed to detect, prevent or address fraud, security or technical issues
+Doing so is appropriate to carry out your own request. We believe it's needed to enforce our legal agreements or that is legally required. We believe it's needed to detect, prevent or address fraud, security or technical issues
 <br></br>
   <h2>Sharing of Data</h2>
  
