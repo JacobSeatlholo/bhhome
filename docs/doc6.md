@@ -21,16 +21,16 @@ Artificial intelligence(AI) is the ability of machines to interpret data and act
 
 **What We Can Do For You?**
 
-* Strategy & Execution Build-up
+* **Strategy & Execution Build-up**
   --Consulting,Algorithms & Building a robust AI & ML infrastructure 
   
-* Business Case Planning
+* **Business Case Planning**
   --We map out pitfalls & strategise against challenges in order to build a solid business case
   
-* Business Process Assessment (BPA) & UX Redesign services
+* **Business Process Assessment (BPA) & UX Redesign services
  --Detailed approach to Product development and Adherence to Corporate Standards
 
-* Data Management
+* **Data Management
   --Data mining, Data strategies,& Data intergration
 
 ## Education & Training 
