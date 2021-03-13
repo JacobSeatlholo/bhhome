@@ -17,7 +17,7 @@ We adapt to customer demands & circumstances in real-time. We offer data driven 
 
 **So What is Artificial Intelligence?**
 
-Artificial intelligence(AI) is the ability of machines to interpret data and act intelligently, this simply means that they can carry out tasks based on data at hand.AI systems have been proven to out perform humans on many aspects. Despite the controversy behind its existence & use, AI still proves to be becoming more affordable to the masses, thus making it a somewhat essential tool for one that seeks increased workflow productivity , process efficiency & omnichannel platforms for their business. 
+Artificial intelligence (AI) is the ability of machines to interpret data and act intelligently, this simply means that they can carry out tasks based on data at hand.AI systems have been proven to out perform humans on many aspects. Despite the controversy behind its existence & use, AI still proves to be becoming more affordable to the masses, thus making it a somewhat essential tool for one that seeks increased workflow productivity , process efficiency & omnichannel platforms for their business. 
 
 **What We Can Do For You?**
 
