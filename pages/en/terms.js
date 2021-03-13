@@ -43,13 +43,13 @@ These other websites and parties are not under our control, and you acknowledge 
 Your use of Business-Hustle.Co is at your sole risk. The Website is provided "as is" and "as available". We disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement.
 We are not liable for damages, direct or consequential, resulting from your use of the Website, and you agree to defend, indemnify and hold us harmless from any claims, losses, liability costs and expenses (including but not limites to attorney's fees) arising from your violation of any third-party's rights. You acknowledge that you have only a limited, non-exclusive, nontransferable license to use the Website. Because the Website is not error or bug free, you agree that you will use it carefully and avoid using it ways which might result in any loss of your or any third party's property or information.
 <br></br>
-<h2>Term and termination</h2>
+<h2>Term and Termination</h2>
 This Terms and Conditions will become effective in relation to you when you create a BusinessHustle.Co account or when you start using the BusinessHustle.Co and will remain effective until terminated by you or by us. 
-Business-Hustle.Co reserves the right to terminate this Terms and Conditions or suspend your account at any time in case of unauthorized, or suspected unauthorized use of the Website whether in contravention of this Terms and Conditions or otherwise. If Business-Hustle.Co terminates this Terms and Conditions, or suspends your account for any of the reasons set out in this section, Business-Hustle.Co shall have no liability or responsibility to you.
+Business Hustle.Co reserves the right to terminate this Terms and Conditions or suspend your account at any time in case of unauthorized, or suspected unauthorized use of the Website whether in contravention of this Terms and Conditions or otherwise. If Business-Hustle.Co terminates this Terms and Conditions, or suspends your account for any of the reasons set out in this section, Business-Hustle.Co shall have no liability or responsibility to you.
 Assignment
-Business-Hustle.Co may assign this Terms and Conditions or any part of it without restrictions. You may not assign this Terms and Conditions or any part of it to any third party.
+Business Hustle  may assign this Terms and Conditions or any part of it without restrictions. You may not assign this Terms and Conditions or any part of it to any third party.
 Governing Law
-These Terms and Conditions and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with the internal laws of the za without giving effect to any choice or conflict of law provision or rule.
+These Terms and Conditions and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with the internal laws of the ZA without giving effect to any choice or conflict of law provision or rule.
 Any legal suit, action or proceeding arising out of, or related to, these Terms of Service or the Website shall be instituted exclusively in the federal courts of ZA.</p>
       </Container>
     </div>
