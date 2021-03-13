@@ -44,6 +44,10 @@ https://mockuper.net - A free online mockup generator that lets you design your 
 
 https://www.liveplan.com - Easily write a business plan, secure funding, and get insights to help you reach your goals.
 
+https://fonts.google.com - A variety of free fonts that are easy and quick to install in a website to choose from. 
+
+https://videoinu.com - Create and edit screen recordings and other videos online.
+
 ## Forms
 
 https://www.99inbound.com - Build your own custom forms and share them online. Get an email or Slack message for each submission. Free plan has 2 forms, 100 entries per month, basic email & Slack.
@@ -61,6 +65,8 @@ https://www.gearhost.com/pricing - A Platform for .NET and PHP apps. You will re
 https://m3o.com - Ship backend for your frontend without managing the infrastructure for free. 
 
 https://appfleet.com - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. With a simple to use UI while automating all the complexity such as smart routing, clustering, failover, monitoring etc. Appfleet is free for open source projects and all users automatically get $10 to host whatever they want.
+
+https://www.docsapp.io - Easiest way to deploy and publish documentation. Completely free for Open Source. 
 
 
 
