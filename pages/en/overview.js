@@ -12,9 +12,9 @@ function HelloWorld(props) {
         <h1>Hello World!</h1>
         <p>This is my first page!</p>
     
-    <center><iframe width="420" height="315"
+    <iframe width="420" height="315"
 src="https://youtu.be/PuMDCqvMs0E">
-</iframe></centre>
+</iframe>
     
       </Container>
     </div>
