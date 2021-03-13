@@ -41,4 +41,3 @@ Artificial intelligence (AI) is the ability of machines to interpret data and ac
 South Africa’s unemployment rate is at 27.6% of which youth accounts for 63.4% thereof (StatsSA, 2019). This problems across many countries in Africa. Business leaders around the  world must gain the right skills and expertise to grow and create a competitive and inclusive economy with shared prosperity. 
 
 >Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
- 
