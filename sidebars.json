@@ -2,9 +2,9 @@
   "docs": {
     "Hustle Portal Resources": ["doc1"],
     "Content creator": ["doc2"],
-    "Entrepreneur": ["doc3"],
+       "Entrepreneur": ["doc3"]
    },
-  "docs-other": {
-    "Remote Work and Technology": ["doc4", "doc5"] 
-  }
-}
+   "docs-other": {
+     "Remote Work and Technology": ["doc4", "doc5"]
+   }
+ }
