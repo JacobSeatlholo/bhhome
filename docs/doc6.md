@@ -5,7 +5,7 @@ title: Digital Consultancy
 
 We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
 
-## Digital Transformation Strategy
+## Our Digital Transformation Strategy
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/wxl6E0czWbw">
@@ -14,7 +14,7 @@ src="https://www.youtube.com/embed/wxl6E0czWbw">
 > Get in touch and contact team@business-hustle.co for a quote
 
 
-##**Automation & AI**
+## Automation & AI
 
 * Hey
 * Ho
