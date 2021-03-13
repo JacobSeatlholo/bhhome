@@ -58,9 +58,9 @@ South Africa’s unemployment rate is at 27.6% of which youth accounts for 63.4%
  >Interested in learning more? View our [Resources](https://bhhome.vercel.app/docs/doc1#design--ui) here.
  
  
- ## Online Support & Content creation
+ ## Online Support & Content Creation
  
- Regardless of where your business is in the maturity curve, we help you address systemic challenges while accelerating and optimizing your talent and location strategies to suite current business climates and environments affecting your business.
+ Regardless of where your business is in the maturity curve, we help you address systemic challenges, while accelerating and optimizing your talent and location strategies to suite current business climates and environments affecting your business.
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/GvD8C5J1S4A">
