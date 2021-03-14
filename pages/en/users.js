@@ -34,7 +34,7 @@ class Users extends React.Component {
               <p>People with disabilities should be able to perceive, understand, navigate, and interact with, and contribute to your website.</p>
             </div>
             <div className="logos">{showcase}</div>
-            <p>Just as web accessibility and SEO are linked, so too are web accessibility and usability.If you’re ready to launch a full accessibility initiative or have questions, you can reach out to our team of experts for a free 30-minute consultation about your next steps.</p>
+            <p>Just as web accessibility and SEO are linked, so too are web accessibility and usability.If you’re ready to launch a full accessibility initiative or have questions, you can reach out to our team of experts for a free 30-minute consultation about your next steps. Email : team@business-hustle.co</p>
             <a href={"https://uahub.org.za"} className="button">
               Visit UA Hub
             </a> 
