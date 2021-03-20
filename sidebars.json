@@ -2,7 +2,8 @@
   "docs": {
     "Hustle Portal Resources": ["doc1"],
     "Content creator": ["doc2"],
-       "Entrepreneur": ["doc3"]
+       "Entrepreneur": ["doc3"],
+    "Planner": ["doc7"]
    },
    "docs-other": {
      "Case studies & Articles": ["doc4", "doc5","doc6","doc7"]
