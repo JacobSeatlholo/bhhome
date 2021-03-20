@@ -9,7 +9,7 @@ function HelloWorld(props) {
   return (
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
-        <h1>Hello World!</h1>
+       
         $(function() {
     $("#scheduler").kendoScheduler({
         date: new Date("2013/6/13"),
@@ -134,8 +134,7 @@ function HelloWorld(props) {
     });
 });
 
-      </Container>
-    </div>
+      
   );
 }
 
