@@ -11,6 +11,7 @@ function HelloWorld(props) {
       <Container className="mainContainer documentContainer postContainer">
         <h1>Hello World!</h1>
         <p>This is my first page!</p>
+<p id="demo"></p>
     <script>document.getElementById("demo").innerHTML = "My First JavaScript";
 </script>
       </Container>
