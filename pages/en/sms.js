@@ -13,6 +13,8 @@ function HelloWorld(props) {
 
     
     test page 
+    
+    <script src="https://kendo.cdn.telerik.com/2016.3.914/js/jquery.min.js"></script>
 
 
       </Container>
