@@ -58,24 +58,20 @@ class HomeSplash extends React.Component {
       </div>
     );
 
-    return (
+     return (
       <SplashContainer>
         <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
         <div className="inner">
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
-
-
-         <ProjectTitle siteConfig={siteConfig} />
+          <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="https://hustleportal-git-bhw1-businesshustle.vercel.app/tutorial">Demo our CRM tool</Button>
-            <Button href={docUrl('doc1.html')}>Resources</Button>
-            <Button href={docUrl('doc2.html')}>Education and Training</Button>
+            <Button href="#try">Try It Out</Button>
+            <Button href={docUrl('doc1.html')}>Example Link</Button>
+            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
           </PromoSection>
         </div>
       </SplashContainer>
     );
   }
-}
 
 class Index extends React.Component {
   render() {
