@@ -3,8 +3,9 @@ id: doc1
 title: Resources 
 sidebar_label: Resource Page
 ---
+Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task. 
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for creatives, authors, designers and entrepreneurs to take advantage of as a resource page to assist in building content/systems for your business. 
+This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers fro you to take advantage of as a resource page to assist in building content/systems for your business. 
 
 ## Design & UI 
 
@@ -17,7 +18,6 @@ https://www.pexels.com - Free stock photos for commercial use. This has a free A
 https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 
 https://pixelite.com - Create and edit engaging and unique graphics and images online.
-
 
 
 ## Email
